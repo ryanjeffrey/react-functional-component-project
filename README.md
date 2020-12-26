@@ -1,2 +1,2 @@
 # react-functional-component-project
-Created with CodeSandbox
+This is a React project from the Skillcrush Front End Developer + React bootcamp. Learning about Array Data Models, Callback functions, Key Props, etc.
